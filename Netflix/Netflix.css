@@ -1,0 +1,169 @@
+body {
+    font-family: lato !important;
+    color: #ffffff !important;
+}
+
+.logo {
+    width: 250px;
+}
+
+.btn {
+    background-color: #e50914 !important;
+}
+
+.hero-box {
+    width: 100%;
+    height: 733px;
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/313d8f80-3110-4e84-a246-22059403155e/0e838d7d-9010-4e0a-b8f9-4b33a483d60f/NG-en-20201214-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+    background-size: cover;
+    background-position: relative;
+}
+
+.hero-box-overlay {
+    width: 100%;
+    height: 733px;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    background-position: absolute;
+}
+
+.hero-box-content {
+    margin-top: 120px;
+}
+
+.hero-box-content-header {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.hero-box-content-description {
+    font-size: 26px;
+}
+
+.button-content {
+    font-size: 21px;
+}
+
+.c-t-a > input {
+    width: 600px;
+    height: 58px;
+    margin-top: 20px;
+}
+
+.c-t-a-btn {
+    width: 200px;
+    height: 60px;
+    position: relative;
+    transform: translateY(-2px);
+}
+
+.spacing {
+    width: 100%;
+    height: 10px;
+    background-color: #222222;
+}
+
+.Enjoy-on-your-Tv {
+    background-color: #000000;
+}
+
+.Enjoy-on-your-Tv-content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    transform: translateY(10px);
+}
+
+.Enjoy-on-your-Tv-content >h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.Enjoy-on-your-Tv-content > p{
+    font-size: 22px;
+    font-weight: 500;
+    transform: translateY(5px);
+}
+
+.E-o-y-t-i {
+    width: 500px;
+}
+
+.Download {
+    background-color: #000000
+}
+
+.Download-i {
+    width: 500px;
+    margin-bottom: 50px;
+}
+
+.Download-content {
+    transform: translateY(100px);
+}
+
+.Download-content >h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.Download-content > p{
+    font-size: 22px;
+    font-weight: 500;
+    transform: translateY(5px);
+}
+
+.Watch-everywhere {
+    background-color: #000000;
+}
+
+.Watch-everywhere-content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    transform: translateY(50px);
+}
+
+.Watch-everywhere-content >h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.Watch-everywhere-content > p{
+    font-size: 22px;
+    font-weight: 500;
+    transform: translateY(5px);
+}
+
+.w-e-i {
+    width: 600px;
+    transform: translateY(50px);
+}
+
+.f-a-q {
+    background-color: #000000;
+}
+
+.f-a-q-heading >h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.f-a-q-btn > button{
+    width: 800px;
+    height: 70px;
+    background-color: #303030;
+    border: none;
+    color: #ffffff;
+}
+
+.f-a-q-btn > button >p{
+    font-size: 23px;
+    transform: translateY(8px);
+}
+
+.f-a-q-btn > button >i{
+    transform: translateY(18px);
+}
+
+.f-a-q-c-t-a {
+    font-size: 20px;
+}
